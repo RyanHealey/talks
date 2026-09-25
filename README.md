@@ -1,6 +1,6 @@
 # Talks
 
-Hi, I'm Ryan Healey, a Senior Software Engineer at LMAX Group. I speak about concurrency, fast feedback, pair programming and the human side of software, and I believe coding should be fun (and hope my talks are too).
+Hi, I'm Ryan Healey, a Senior Software Engineer at LMAX Group. I speak about concurrency, fast feedback, pair programming, and the human side of software, and I believe coding should be fun (and hope my talks are too).
 
 📋 Speaker profile: [sessionize.com/ryan-healey](https://sessionize.com/ryan-healey/)
 💼 LinkedIn: [linkedin.com/in/ryan-healey-06340518b](https://www.linkedin.com/in/ryan-healey-06340518b/)
@@ -42,7 +42,7 @@ Pair programming isn't dead. This talk covers what makes pairing effective, why 
 
 **Topics:** Fast feedback · TDD · CI
 
-Every time we write code, something tells us whether it worked, from the red squiggly line in the IDE to compile errors, test suites and production monitoring. This talk is about why that feedback needs to be fast, what slow feedback costs in productivity and developer happiness, and how to speed it up across the whole development lifecycle.
+Every time we write code, something tells us whether it worked, from the red squiggly line in the IDE to compile errors, test suites, and production monitoring. This talk is about why that feedback needs to be fast, what slow feedback costs in productivity and developer happiness, and how to speed it up across the whole development lifecycle.
 
 | Year | Event | Location | Recording |
 |------|-------|----------|-----------|
@@ -51,7 +51,11 @@ Every time we write code, something tells us whether it worked, from the red squ
 | 2025 | London Java Community | London, UK | N/A |
 
 ---
+## Articles
 
+* Kode24 - Norwegian developer website reporting on my talk at NDC Oslo - [Link](https://www.kode24.no/artikkel/forsvarer-parprogrammering-gjor-deg-gladere-og-mer-effektiv/272825)
+
+---
 ## Get in touch
 
 Interested in having me speak at your conference or meetup? Reach out via [Sessionize](https://sessionize.com/ryan-healey/) or [LinkedIn](https://www.linkedin.com/in/ryan-healey-06340518b/).
