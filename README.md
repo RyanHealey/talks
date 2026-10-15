@@ -33,7 +33,7 @@ Pair programming isn't dead. This talk covers what makes pairing effective, why 
 | Year | Event | Location | Recording |
 |------|-------|----------|-----------|
 | 2026 | NDC Oslo | Oslo, Norway | Awaiting Upload |
-| 2026 | Agile on the Beach | Falmouth, UK | Awaiting Upload |
+| 2026 | Agile on the Beach | Falmouth, UK | [Watch](https://www.youtube.com/watch?v=9VH0ovc7RgE) |
 | 2025 | London Java Community | London, UK | N/A |
 
 ---
